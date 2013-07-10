@@ -23,7 +23,7 @@ NEEDED RESOURCES FOR PROJECT
 - LOGINS 
 - "Classes" or organisations - for students
 - Upload capabilities for admin (teacher)
-	-   PDF, WORD, EXCEL, TXT in browser support.
+	-   PDF, WORD, EXCEL, TXT, ETC in browser support.
 
 contact
 ========
